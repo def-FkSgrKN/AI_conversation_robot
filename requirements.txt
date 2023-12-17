@@ -1,0 +1,7 @@
+langchain>=0.0.348
+serial>=3.5
+speech_recognition>=3.8.1
+requests>=2.28.2 
+json>=2.0.9
+sounddevice>=0.4.3
+numpy>=1.22.2

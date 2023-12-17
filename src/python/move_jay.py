@@ -1,5 +1,4 @@
 #パソコン関連もろもろ, Arduinoでサーボを動かす（Pythonとのシリアル通信), https://touch-sp.hatenablog.com/entry/2020/05/20/024607, 2022年5月2日. 
-from cgi import test
 import serial
 import time
 from UDP_Socket_module import make_server_socket, socket_receve_data, close_socket
