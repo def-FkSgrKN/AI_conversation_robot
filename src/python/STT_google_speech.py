@@ -1,9 +1,4 @@
-import time
 import speech_recognition as sr
-import pyaudio
-
-import numpy as np
-import pyopenjtalk
 
 
 def STT_main(MIC_DEVICE_IDX, TIMEOUT_SEC, PHRASE_TIME_LIMIT_SEC, LANGAGE):
